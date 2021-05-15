@@ -1,5 +1,6 @@
 package pl.coderslab.resources;
 
+
 public class Book {
 
     private Long id;
@@ -66,4 +67,6 @@ public class Book {
         this.type = type;
     }
 
+    public Book() {
+    }
 }
