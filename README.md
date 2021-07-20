@@ -1,13 +1,11 @@
 # BookAPI
 
-Workshop 7 from my bootcamp. App uses:
+7th workshop from my bootcamp. App uses:
 
--Spring
+- Spring
+- Spring MVC
+- Java 8
 
--Spring MVC
+It's an API for managing books created with use of Spring technology but without Spring Boot.
 
--Java 8
-
-It's a API for managing books created with use of Spring technology but without Spring Boot. 
-
-App don't have JSP sites but for MVC uses JSON and CURL for user view. 
+App doesn't have JSP sites but for MVC uses JSON and CURL for user view.
